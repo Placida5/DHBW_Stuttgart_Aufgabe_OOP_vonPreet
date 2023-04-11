@@ -1,2 +1,0 @@
-# DHBW_Stuttgart_Aufgabe_OOP
-Objektorientierten Programmierung
